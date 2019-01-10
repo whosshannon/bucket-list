@@ -592,5 +592,3 @@ dmypy.json
 
 ### Python Patch ###
 .venv/
-
-# End of https://www.gitignore.io/api/node,java,python,csharp,osx
