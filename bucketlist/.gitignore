@@ -579,3 +579,5 @@ dmypy.json
 *.xhtml
 
 # End of https://www.gitignore.io/api/web,node,java,python,csharp
+
+.DS_Store
